@@ -1,4 +1,4 @@
-# Towards 6G wireless communication networks: vision, enabling technologies, and new paradigm shifts
+# 阅读笔记：Towards 6G wireless communication networks: vision, enabling technologies, and new paradigm shifts
 5G在2020年起正在全世界范围内铺开。大规模连接、高可靠、有保证的低时延等领域正在进行标准化。
 # 1 introduction
 5G的三个典型场景：增强型可移动宽带eMBB，大规模物联网mMTC，高可靠低时延通信uRLLC
